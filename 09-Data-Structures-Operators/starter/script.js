@@ -46,4 +46,4 @@ const restaurant = {
   },
 };
 
-console.log("*gulp*");
+console.log("Test forka");
